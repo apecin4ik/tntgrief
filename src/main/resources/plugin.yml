@@ -1,0 +1,4 @@
+name: ChestTnt
+version: 1.0
+main: ru.grief.chesttnt.ChestTnt
+api-version: '1.16'
